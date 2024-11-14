@@ -18,17 +18,6 @@ This project demonstrates handwritten digit recognition (0-9) using a Support Ve
 1.  Clone the repo: `git clone https://github.com/yourusername/handwritten-digit-recognition-using-svm.git`
 2.  Install dependencies: `pip install -r requirements.txt`
 
-📝 How to Use
--------------
-
-### 1\. Train the Model
-
-Run `python src/digit_recognition.py --train` to train the model with GridSearchCV.
-
-### 2\. Test the Model
-
-Run `python src/digit_recognition.py --test` to evaluate the model's performance on the test dataset.
-
 
 
 🔬 Hyperparameter Tuning
